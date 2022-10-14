@@ -24,6 +24,7 @@
 #display-image{
     width: 400px;
     height: 225px;
+    margin-top:1%;
     border-radius: 5px;
     border: 2px solid lightgreen;
     background-position: center;
